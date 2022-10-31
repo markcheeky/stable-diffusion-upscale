@@ -1,4 +1,4 @@
-name: ldm
+name: stable-diff-hd
 channels:
   - pytorch
   - defaults
